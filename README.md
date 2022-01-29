@@ -22,7 +22,11 @@ xelatex {cv-name}.text
 
 ## Credits
 
-All credits to Latex, Xelatex the open fonts used and for sure all cv where inspire me.
+- [LaTeX](https://www.latex-project.org/) is a fantastic typesetting program that a lot of people use these days, especially the math and computer science people in academia.
+
+- [LaTeX FontAwesome](https://github.com/plorcupine/latex-fontawesome) is bindings for FontAwesome icons to be used in XeLaTeX.
+
+- Fonts used and for sure all cvs that inspired me
 
 ## License
 
