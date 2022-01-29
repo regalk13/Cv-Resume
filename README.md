@@ -3,7 +3,9 @@ This repo is just a example of the cv, resume that I have been using to get jobs
 
 # Preview
 
-<img src="https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-0.png">
+This is a very low example but with a little time you can do something more complex and complete (like my real CV).
+
+<img src="https://user-images.githubusercontent.com/72028266/151669572-cc1f7913-5297-4890-8fe0-85f00b7fbbd6.png">
 
 # How to use
 
